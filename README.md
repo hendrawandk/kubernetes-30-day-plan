@@ -17,7 +17,7 @@ This repository contains a 30-day plan to master Kubernetes from beginner to exp
 
 ## Deliverables
 - **GitHub Repository**: This repo.
-- **PDF Guide**: Download from [link-to-pdf].
-- **LinkedIn Carousel**: Shareable slides [link-to-post].
+- [Download the 30-Day Kubernetes Plan Teaser PDF](https://github.com/user/kubernetes-30-day-plan/blob/b2a854ee7ccc6de8fc878b19c57ae8d26c23d7c9/6e3bd0af-0d31-4e0d-b1e3-0ae8a78dfc3c.pdf)
+- **PDF Guide**: Download from [link-to-pdf]
 
 Start your journey to Kubernetes mastery today!
